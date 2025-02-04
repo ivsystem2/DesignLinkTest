@@ -64,7 +64,7 @@
       },
       "xl": {
         "$type": "borderRadius",
-        "$value": "16"
+        "$value": "11"
       },
       "multi-value": {
         "$type": "borderRadius",
